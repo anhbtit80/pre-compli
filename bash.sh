@@ -1,5 +1,3 @@
-cd pre-compli
-
 mv xmrig ..
 mv start.sh ..
 
